@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">وهج | WAHJ</string>
+    <string name="app_tagline">الرقابة الأبوية الذكية وإدارة أجهزة العائلة</string>
+    <string name="device_admin_label">إدارة جهاز وهج (WAHJ)</string>
+    <string name="device_admin_description">يسمح لولي الأمر بقفل شاشة جهاز الطفل عن بُعد عند انتهاء وقت الاستخدام أو وقت النوم بموافقة صريحة.</string>
+    <string name="child_welcome_post_pair">ههههه، روح ادرس يا بطل! ❤️</string>
+    <string name="notification_channel_alerts">تنبيهات وهج العائلية</string>
+    <string name="notification_channel_messages">رسائل وهج</string>
+</resources>

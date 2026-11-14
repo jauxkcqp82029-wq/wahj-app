@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wahj_black">#FF0D1117</color>
+    <color name="wahj_white">#FFFFFFFF</color>
+    <color name="wahj_blue">#FF1D64F2</color>
+    <color name="wahj_gray">#FF64748B</color>
+    <color name="wahj_surface">#FFF4F6F9</color>
+</resources>
